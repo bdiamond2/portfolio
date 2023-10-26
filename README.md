@@ -10,7 +10,7 @@ This is the source code of my final project for CS559: Computer Graphics at UW-M
 ## [CS400-final-project](https://github.com/bdiamond2/CS400-final-project/)
 Titled "Escape from Quarkslurp Alpha," this was my final project for CS400: Programming III at UW-Madison back in summer 2022. It's short a text-based game that's written in Java and implements Dijkstra's algorithm to find the shortest path between two nodes in a graph with weighted edges.
 
-## [job-site-scraping](https://github.com/bdiamond2/job-site-scraping/blob/main/umich_job_scraper.ipynb)
+## [umich-job-board](https://github.com/bdiamond2/umich-job-board)
 Perhaps some of the most practically useful code I've ever written for myself, this is a program that scrapes the University of Michigan's job site and dumps the info into a CSV file. Because I currently have an Ann Arbor lease without an Ann Arbor *job*, I've been checking the U-M job site borderline-obsessively. I soon realized that it was difficult and tedious to keep track of which jobs I should apply for next, and I kept thinking, "Man, this would be so much easier if it was all in a spreadsheet." So I decided it was a great excuse to learn the basics of web scraping and wrote this little program.
 
 ## [gravity-simulator](https://github.com/bdiamond2/gravity-simulator/)
